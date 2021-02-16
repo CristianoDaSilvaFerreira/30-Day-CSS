@@ -23,4 +23,4 @@ Aceitando os desafios, vamos de um projeto de 30 dias em CSS para aprofundar os 
 ### 30 Dias
 [Dia 01 - Ícone de mídia social em camadas](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
-[Dia 02 - Loading animado](https://github.com/CristianoDaSilvaFerreira/30-Day-CSS/blob/main/dia-02/spinner.gif)
+[Dia 02 - Loading animado](https://raw.githubusercontent.com/CristianoDaSilvaFerreira/30-Day-CSS/main/dia-02/spinner.gif)
