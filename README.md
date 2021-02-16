@@ -18,9 +18,7 @@ Aceitando os desafios, vamos de um projeto de 30 dias em CSS para aprofundar os 
 
 ## Tutorias
 **YouTube Refernecias dos Desafios**
-[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
-[Creative Creation] (https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A)
-[DakCode] (https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) 
 
 ### 30 Dias
 [Dia 01 - Ícone de mídia social em camadas](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
