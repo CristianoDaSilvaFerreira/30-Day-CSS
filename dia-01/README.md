@@ -7,6 +7,4 @@ Posso dizer que o apredizdo adquirido foi váriado, sendo destacado os sequintes
  - [x] Utilização e estilização das classes dentro das divs;
  - [x] Utilização dos ícones vindo extrenamente, do FontAwesome;
  - [x] No CSS a utilização da propriedade **opacity** em suas várias formas;
- - [x] A utilização do pseudo-classe ~~~css 
-:first-child 
-~~~
+ - [x] A utilização do pseudo-classe **:first-child** 
