@@ -24,3 +24,7 @@ Aceitando os desafios, vamos de um projeto de 30 dias em CSS para aprofundar os 
 [Dia 01 - Ícone de mídia social em camadas](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
 [Dia 02 - Loading animado](https://raw.githubusercontent.com/CristianoDaSilvaFerreira/30-Day-CSS/main/dia-02/spinner.gif)
+
+[Dia 03 - Efeito banner com mudança de cor do texto](https://github.com/CristianoDaSilvaFerreira/30-Day-CSS/blob/main/dia-03/marquee.gif)
+
+[Dia 04 - Botão com borda animada](https://github.com/CristianoDaSilvaFerreira/30-Day-CSS/blob/main/dia-04/button-hover.gif)
