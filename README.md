@@ -28,3 +28,5 @@ Aceitando os desafios, vamos de um projeto de 30 dias em CSS para aprofundar os 
 [Dia 03 - Efeito banner com mudança de cor do texto](https://github.com/CristianoDaSilvaFerreira/30-Day-CSS/blob/main/dia-03/marquee.gif)
 
 [Dia 04 - Botão com borda animada](https://github.com/CristianoDaSilvaFerreira/30-Day-CSS/blob/main/dia-04/button-hover.gif)
+
+[Dia 05 - Botão com efeito pulse](https://github.com/CristianoDaSilvaFerreira/30-Day-CSS/blob/main/dia-05/pulse-button.gif)
